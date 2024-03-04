@@ -1,0 +1,2 @@
+Streamlit clound link :
+https://project--dicoding-amiq.streamlit.app/
