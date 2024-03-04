@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def load_data():
-    df = pd.read_csv('combined_data.csv')
+    df = pd.read_csv('../dashboard/combined_data.csv')
     return df
 def main():
     st.title('Bike Rental Analysis Dashboard')
